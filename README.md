@@ -42,7 +42,3 @@ To run the Duplicate Image Finder, you need:
 2. How to Use
    ```bash
    python find_duplicate_images.py
-
-
-
-
